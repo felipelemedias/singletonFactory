@@ -17,8 +17,5 @@ public class FabricanteCelularSingleton {
                 samsung = new Samsung();
             return samsung;
         }
-
-
     }
-
 }
